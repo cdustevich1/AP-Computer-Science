@@ -1,0 +1,20 @@
+// chase dustevich
+public class diamond {
+  
+  
+  public static void main(String[] args) { 
+    
+    //diamond via println
+    
+    System.out.println(*********);
+    System.out.println(\t\t\t*);
+    System.out.println("Period 3: \tStudy Hall \t\tMindy Dorish");
+    System.out.println("Period 4: \tLunch \t\t\tAndrei Tudorascu");
+    System.out.println("Period 5: \tAP US History \t\tPatt McCloskey");
+    System.out.println("Period 6: \tHonors American Literature \tBen Minett");
+    System.out.println("Period 7: \tAP BC Calculus \t\tJames Willison");
+    System.out.println("Period 8: \tHonors German 4 \t\tChris Stein");
+    
+  }
+  
+}

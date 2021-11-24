@@ -1,0 +1,36 @@
+import java.util.Random;         // guess whar
+
+// chase dustevich
+
+public class slotMachine {
+  
+  public static void main(String[] args) { 
+    
+    Random generator = new Random(); // i think this makes the thing
+    
+    int ran1;
+    int ran2;
+    int ran3;
+    
+    ran1 = generator.nextInt(10);
+        ran1 = generator.nextInt(10);
+        ran1 = generator.nextInt(10);
+    
+              System.out.print (ran1);         
+              System.out.print (ran2);        
+              System.out.print (ran3);        
+              System.out.println ();    
+            
+              
+              
+              
+              
+              
+              
+              
+              
+              
+    
+  }
+  
+}

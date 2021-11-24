@@ -1,0 +1,20 @@
+// chase dustevich
+
+public class schedule {
+  
+  
+  public static void main(String[] args) { 
+    
+//print each class on a seperate line    
+    
+    System.out.println("Period 1: \tAP Computer Science");
+    System.out.println("Period 2: \tAP Environmental Geoscience");
+    System.out.println("Period 3: \tStudy Hall");
+    System.out.println("Period 4: \tLunch");
+    System.out.println("Period 5: \tAP US History");
+    System.out.println("Period 6: \tHonors American Literature");
+    System.out.println("Period 7: \tAP BC Calculus");
+    System.out.println("Period 8: \tHonors German 4");
+  }
+  
+}

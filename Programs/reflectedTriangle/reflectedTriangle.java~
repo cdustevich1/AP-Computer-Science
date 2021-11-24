@@ -1,0 +1,54 @@
+/**
+ * Auto Generated Java Class.
+ */
+
+import java.util.Scanner;
+
+
+public class reflectedTriangle {
+  
+  
+  public static void main(String[] args) { 
+    
+    
+  Scanner scan = new Scanner(System.in);
+    
+
+    System.out.print("Select the number of rows: ");
+    int rows = scan.nextInt();
+
+    
+    
+    for(int temp = 0; temp < rows; temp++) {
+   
+    
+
+          for(int temp2 = 1; temp2 == temp + 1; temp2++) {
+
+    System.out.print(" ");
+        
+        
+          }
+        
+      
+      
+      
+      
+      
+      
+      
+      
+        
+        
+      }
+    
+      
+      
+      
+
+    }
+    
+  }
+  
+
+
